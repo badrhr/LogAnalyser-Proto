@@ -1,0 +1,1 @@
+Objectif : Lire plusieurs fichiers journaux/Log Spring Boot, transformer chaque ligne en objet LogEntry, et extraire des statistiques sur les niveaux de logs (INFO, WARN, ERROR) en utilisant d’abord une gestion simple avec des Threads, avant d’introduire ExecutorService.
