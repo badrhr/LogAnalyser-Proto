@@ -1,0 +1,1000 @@
+2025-10-01 00:07:58.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 00:15:51.000 [WARN] com.shopverse3.ordersystem - User 1805 successfully logged in.
+2025-10-01 00:22:19.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-01 00:29:18.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 2312. SMTPException: Connection reset.
+2025-10-01 00:38:27.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/20001 returned 500 in 334 ms.
+2025-10-01 00:39:29.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 50523: Payment gateway timeout.
+2025-10-01 00:47:13.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-01 00:52:44.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9608.
+2025-10-01 00:54:49.000 [INFO] com.shopverse3.ordersystem - User 3694 successfully logged in.
+2025-10-01 00:56:18.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/34111 returned 200 in 178 ms.
+2025-10-01 00:56:52.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 84616 due to network issue.
+2025-10-01 01:02:53.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 01:03:46.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 30511: Payment gateway timeout.
+2025-10-01 01:07:30.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/73197 returned 200 in 411 ms.
+2025-10-01 01:12:05.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 7421. SMTPException: Connection reset.
+2025-10-01 01:14:51.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 01:18:14.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 95962: Payment gateway timeout.
+2025-10-01 01:23:05.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-01 01:30:13.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 33633: Payment gateway timeout.
+2025-10-01 01:38:06.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5511. SMTPException: Connection reset.
+2025-10-01 01:40:41.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 8470. SMTPException: Connection reset.
+2025-10-01 01:44:04.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 01:44:50.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 7407.
+2025-10-01 01:53:28.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 11018, amount $855.21767829.
+2025-10-01 01:54:33.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 89773, amount $206.55670419.
+2025-10-01 02:00:58.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 98942, amount $40.14217378.
+2025-10-01 02:08:29.000 [INFO] com.shopverse3.ordersystem - User 7556 successfully logged in.
+2025-10-01 02:12:33.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 56816, amount $700.39883398.
+2025-10-01 02:14:14.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 7583. SMTPException: Connection reset.
+2025-10-01 02:17:29.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5545. SMTPException: Connection reset.
+2025-10-01 02:25:24.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 2736.
+2025-10-01 02:33:28.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-01 02:37:17.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 5264.
+2025-10-01 02:44:04.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 91597 due to network issue.
+2025-10-01 02:51:28.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/71496 returned 200 in 487 ms.
+2025-10-01 02:55:31.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 9946.
+2025-10-01 03:00:18.000 [ERROR] com.shopverse3.ordersystem - GET /api/products/97835 returned 200 in 387 ms.
+2025-10-01 03:04:50.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-01 03:13:09.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 03:19:05.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 66651, amount $929.14269178.
+2025-10-01 03:24:42.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 6415.
+2025-10-01 03:31:00.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 88109, amount $940.11251943.
+2025-10-01 03:38:24.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4835. SMTPException: Connection reset.
+2025-10-01 03:39:21.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 19474, amount $210.58581162.
+2025-10-01 03:44:15.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 14874 due to network issue.
+2025-10-01 03:49:20.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 51331, amount $187.17300027.
+2025-10-01 03:52:34.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4401.
+2025-10-01 03:53:23.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 47228: Payment gateway timeout.
+2025-10-01 03:57:40.000 [WARN] com.shopverse3.ordersystem - User 5877 successfully logged in.
+2025-10-01 04:06:09.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 69713, amount $873.40763795.
+2025-10-01 04:10:51.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 99497: Payment gateway timeout.
+2025-10-01 04:16:53.000 [ERROR] com.shopverse3.ordersystem - User 4214 successfully logged in.
+2025-10-01 04:20:23.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 16562: Payment gateway timeout.
+2025-10-01 04:28:06.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 04:32:31.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 24160 due to network issue.
+2025-10-01 04:35:44.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 71419 due to network issue.
+2025-10-01 04:42:21.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 04:43:22.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-01 04:52:32.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 3375.
+2025-10-01 05:01:45.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 05:11:00.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 38709: Payment gateway timeout.
+2025-10-01 05:13:41.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 3580. SMTPException: Connection reset.
+2025-10-01 05:14:04.000 [WARN] com.shopverse3.ordersystem - User 6074 successfully logged in.
+2025-10-01 05:19:56.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 6155. SMTPException: Connection reset.
+2025-10-01 05:28:09.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/72654 returned 500 in 285 ms.
+2025-10-01 05:37:44.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 49145: Payment gateway timeout.
+2025-10-01 05:38:07.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-01 05:41:37.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 3939.
+2025-10-01 05:48:52.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 05:53:04.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/51067 returned 500 in 229 ms.
+2025-10-01 05:56:56.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/18410 returned 500 in 75 ms.
+2025-10-01 06:05:55.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 06:07:52.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 68152 due to network issue.
+2025-10-01 06:17:37.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/55919 returned 500 in 339 ms.
+2025-10-01 06:18:18.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 5216.
+2025-10-01 06:27:32.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 41222, amount $679.52546538.
+2025-10-01 06:34:33.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 06:41:59.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5773.
+2025-10-01 06:50:36.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9498.
+2025-10-01 06:56:39.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 45103: Payment gateway timeout.
+2025-10-01 07:02:31.000 [ERROR] com.shopverse3.ordersystem - User 2288 successfully logged in.
+2025-10-01 07:07:41.000 [WARN] com.shopverse3.ordersystem - GET /api/payments/96353 returned 200 in 462 ms.
+2025-10-01 07:17:39.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 19836 due to network issue.
+2025-10-01 07:26:33.000 [WARN] com.shopverse3.ordersystem - GET /api/cart/82176 returned 200 in 376 ms.
+2025-10-01 07:28:34.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 25716: Payment gateway timeout.
+2025-10-01 07:32:31.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 16578, amount $459.52546148.
+2025-10-01 07:36:43.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 07:45:43.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 75850 due to network issue.
+2025-10-01 07:54:58.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/39621 returned 500 in 344 ms.
+2025-10-01 08:00:29.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-01 08:08:15.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5964. SMTPException: Connection reset.
+2025-10-01 08:11:13.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 70330 due to network issue.
+2025-10-01 08:18:12.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 73230, amount $780.87793466.
+2025-10-01 08:27:37.000 [WARN] com.shopverse3.ordersystem - User 3664 successfully logged in.
+2025-10-01 08:33:57.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 3607. SMTPException: Connection reset.
+2025-10-01 08:37:59.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/98978 returned 200 in 71 ms.
+2025-10-01 08:47:52.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 50580 due to network issue.
+2025-10-01 08:48:37.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 9717.
+2025-10-01 08:52:40.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 81170: Payment gateway timeout.
+2025-10-01 08:59:26.000 [WARN] com.shopverse3.ordersystem - GET /api/products/83003 returned 200 in 31 ms.
+2025-10-01 09:04:33.000 [INFO] com.shopverse3.ordersystem - GET /api/payments/42612 returned 200 in 442 ms.
+2025-10-01 09:12:48.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 71367 due to network issue.
+2025-10-01 09:17:00.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 09:24:01.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 09:27:44.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/33215 returned 500 in 348 ms.
+2025-10-01 09:31:44.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 50404 due to network issue.
+2025-10-01 09:37:35.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 25683, amount $984.12247544.
+2025-10-01 09:39:27.000 [ERROR] com.shopverse3.ordersystem - GET /api/orders/75813 returned 200 in 418 ms.
+2025-10-01 09:47:48.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 8224. SMTPException: Connection reset.
+2025-10-01 09:52:11.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/54993 returned 500 in 368 ms.
+2025-10-01 09:55:43.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 10:04:00.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 57892: Payment gateway timeout.
+2025-10-01 10:13:07.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9173.
+2025-10-01 10:22:29.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/95347 returned 200 in 346 ms.
+2025-10-01 10:30:50.000 [WARN] com.shopverse3.ordersystem - GET /api/payments/83406 returned 200 in 432 ms.
+2025-10-01 10:34:54.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 40225 due to network issue.
+2025-10-01 10:44:03.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 24059, amount $643.15452434.
+2025-10-01 10:44:46.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 64336, amount $898.20146469.
+2025-10-01 10:47:56.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 10:57:06.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 3583. SMTPException: Connection reset.
+2025-10-01 10:57:21.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/97246 returned 200 in 271 ms.
+2025-10-01 11:02:57.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5404.
+2025-10-01 11:12:34.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 37121: Payment gateway timeout.
+2025-10-01 11:22:16.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 11:25:37.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/35206 returned 500 in 162 ms.
+2025-10-01 11:25:57.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 60991, amount $52.97396623.
+2025-10-01 11:35:29.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 11:44:48.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 94879 due to network issue.
+2025-10-01 11:44:58.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 15676 due to network issue.
+2025-10-01 11:46:08.000 [WARN] com.shopverse3.ordersystem - GET /api/cart/49673 returned 200 in 402 ms.
+2025-10-01 11:46:45.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4685. SMTPException: Connection reset.
+2025-10-01 11:55:06.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 39297: Payment gateway timeout.
+2025-10-01 11:57:18.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 9474. SMTPException: Connection reset.
+2025-10-01 12:02:48.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/17320 returned 200 in 36 ms.
+2025-10-01 12:12:20.000 [ERROR] com.shopverse3.ordersystem - GET /api/orders/61911 returned 200 in 409 ms.
+2025-10-01 12:19:54.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 62191 due to network issue.
+2025-10-01 12:27:18.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 66321, amount $783.44089412.
+2025-10-01 12:34:13.000 [INFO] com.shopverse3.ordersystem - PUT /api/products/88145 returned 500 in 125 ms.
+2025-10-01 12:34:43.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4279.
+2025-10-01 12:37:44.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 12:41:09.000 [INFO] com.shopverse3.ordersystem - GET /api/payments/82404 returned 200 in 365 ms.
+2025-10-01 12:48:44.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 27876: Payment gateway timeout.
+2025-10-01 12:53:05.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 28270: Payment gateway timeout.
+2025-10-01 13:00:41.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/53829 returned 500 in 22 ms.
+2025-10-01 13:08:34.000 [INFO] com.shopverse3.ordersystem - User 8656 successfully logged in.
+2025-10-01 13:17:54.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/63738 returned 500 in 148 ms.
+2025-10-01 13:20:14.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-01 13:22:07.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 3375.
+2025-10-01 13:27:13.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 13:30:57.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/51746 returned 200 in 251 ms.
+2025-10-01 13:33:50.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 13:37:55.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/56346 returned 500 in 271 ms.
+2025-10-01 13:39:11.000 [ERROR] com.shopverse3.ordersystem - User 7583 successfully logged in.
+2025-10-01 13:45:38.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 5034.
+2025-10-01 13:52:09.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4097.
+2025-10-01 13:54:20.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 8671.
+2025-10-01 14:02:32.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 17210, amount $286.53000786.
+2025-10-01 14:07:00.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 2338. SMTPException: Connection reset.
+2025-10-01 14:15:56.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 8213.
+2025-10-01 14:18:00.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 16647 due to network issue.
+2025-10-01 14:19:07.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 67899: Payment gateway timeout.
+2025-10-01 14:25:00.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 14:34:57.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 65235, amount $22.98611297.
+2025-10-01 14:43:34.000 [INFO] com.shopverse3.ordersystem - GET /api/payments/78543 returned 200 in 39 ms.
+2025-10-01 14:49:21.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 49121, amount $980.36647179.
+2025-10-01 14:57:47.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-01 15:05:06.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 49056: Payment gateway timeout.
+2025-10-01 15:13:47.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/62935 returned 200 in 336 ms.
+2025-10-01 15:19:51.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/60729 returned 500 in 153 ms.
+2025-10-01 15:24:40.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 62026 due to network issue.
+2025-10-01 15:25:53.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 73245, amount $657.13316949.
+2025-10-01 15:35:30.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 24211: Payment gateway timeout.
+2025-10-01 15:37:59.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 8718.
+2025-10-01 15:42:55.000 [WARN] com.shopverse3.ordersystem - PUT /api/orders/68473 returned 500 in 90 ms.
+2025-10-01 15:51:26.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 15:54:36.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 18285: Payment gateway timeout.
+2025-10-01 16:04:19.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 35315, amount $472.47604866.
+2025-10-01 16:11:03.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 16:12:10.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 11024 due to network issue.
+2025-10-01 16:13:08.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/68998 returned 500 in 398 ms.
+2025-10-01 16:14:44.000 [ERROR] com.shopverse3.ordersystem - User 3910 successfully logged in.
+2025-10-01 16:15:08.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/43558 returned 500 in 19 ms.
+2025-10-01 16:22:13.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 20681 due to network issue.
+2025-10-01 16:22:57.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 9019.
+2025-10-01 16:32:29.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 57677, amount $52.01266242.
+2025-10-01 16:32:58.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/96370 returned 200 in 239 ms.
+2025-10-01 16:40:23.000 [ERROR] com.shopverse3.ordersystem - User 8538 successfully logged in.
+2025-10-01 16:42:31.000 [ERROR] com.shopverse3.ordersystem - User 2149 successfully logged in.
+2025-10-01 16:47:13.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 9487. SMTPException: Connection reset.
+2025-10-01 16:55:11.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 5070. SMTPException: Connection reset.
+2025-10-01 16:57:32.000 [WARN] com.shopverse3.ordersystem - User 3517 successfully logged in.
+2025-10-01 17:06:22.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 8213.
+2025-10-01 17:12:11.000 [ERROR] com.shopverse3.ordersystem - User 9122 successfully logged in.
+2025-10-01 17:16:59.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5033.
+2025-10-01 17:24:40.000 [INFO] com.shopverse3.ordersystem - User 9451 successfully logged in.
+2025-10-01 17:28:56.000 [INFO] com.shopverse3.ordersystem - GET /api/payments/69238 returned 200 in 206 ms.
+2025-10-01 17:35:59.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 93706, amount $947.39783062.
+2025-10-01 17:44:02.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 95890 due to network issue.
+2025-10-01 17:47:42.000 [WARN] com.shopverse3.ordersystem - User 1419 successfully logged in.
+2025-10-01 17:48:10.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/70731 returned 500 in 42 ms.
+2025-10-01 17:53:28.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 64781: Payment gateway timeout.
+2025-10-01 18:02:38.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 33999: Payment gateway timeout.
+2025-10-01 18:05:32.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 63385: Payment gateway timeout.
+2025-10-01 18:07:38.000 [WARN] com.shopverse3.ordersystem - User 2190 successfully logged in.
+2025-10-01 18:11:51.000 [INFO] com.shopverse3.ordersystem - User 4686 successfully logged in.
+2025-10-01 18:18:52.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4277. SMTPException: Connection reset.
+2025-10-01 18:22:05.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 49216, amount $197.63674123.
+2025-10-01 18:26:28.000 [INFO] com.shopverse3.ordersystem - GET /api/products/89576 returned 200 in 11 ms.
+2025-10-01 18:35:20.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 18145, amount $979.30146233.
+2025-10-01 18:38:56.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 7351.
+2025-10-01 18:44:12.000 [WARN] com.shopverse3.ordersystem - User 7324 successfully logged in.
+2025-10-01 18:49:50.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 97576 due to network issue.
+2025-10-01 18:51:14.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 79339, amount $207.21451516.
+2025-10-01 18:54:22.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/72321 returned 500 in 200 ms.
+2025-10-01 19:02:05.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 19:10:07.000 [ERROR] com.shopverse3.ordersystem - User 6487 successfully logged in.
+2025-10-01 19:16:03.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 13519: Payment gateway timeout.
+2025-10-01 19:23:03.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 9681.
+2025-10-01 19:31:44.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 23661, amount $20.21868017.
+2025-10-01 19:40:08.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 19:46:47.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 1641. SMTPException: Connection reset.
+2025-10-01 19:47:07.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/38830 returned 200 in 128 ms.
+2025-10-01 19:56:57.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4635.
+2025-10-01 20:00:45.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 20:04:05.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5407.
+2025-10-01 20:06:41.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 6120.
+2025-10-01 20:07:22.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 20:08:31.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 79806 due to network issue.
+2025-10-01 20:09:54.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/40925 returned 500 in 444 ms.
+2025-10-01 20:14:20.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/18163 returned 200 in 144 ms.
+2025-10-01 20:17:00.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/67137 returned 500 in 445 ms.
+2025-10-01 20:22:31.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 18030 due to network issue.
+2025-10-01 20:25:00.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/18503 returned 500 in 339 ms.
+2025-10-01 20:34:09.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 76058: Payment gateway timeout.
+2025-10-01 20:43:42.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 20:51:53.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-01 20:55:02.000 [ERROR] com.shopverse3.ordersystem - GET /api/orders/73847 returned 200 in 190 ms.
+2025-10-01 20:55:49.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 10479 due to network issue.
+2025-10-01 20:57:15.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 7019. SMTPException: Connection reset.
+2025-10-01 21:06:35.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 82532 due to network issue.
+2025-10-01 21:12:21.000 [INFO] com.shopverse3.ordersystem - PUT /api/products/44973 returned 500 in 151 ms.
+2025-10-01 21:21:30.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 65704: Payment gateway timeout.
+2025-10-01 21:21:58.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 3304. SMTPException: Connection reset.
+2025-10-01 21:27:46.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 31105 due to network issue.
+2025-10-01 21:29:17.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/48452 returned 500 in 430 ms.
+2025-10-01 21:38:23.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5997.
+2025-10-01 21:43:24.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 86464: Payment gateway timeout.
+2025-10-01 21:51:37.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 2055.
+2025-10-01 21:58:30.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 19233 due to network issue.
+2025-10-01 22:01:33.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 22:07:09.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-01 22:16:16.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 22:20:12.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 21108, amount $768.46804466.
+2025-10-01 22:24:51.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-01 22:25:22.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/42331 returned 500 in 365 ms.
+2025-10-01 22:30:10.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/77830 returned 500 in 406 ms.
+2025-10-01 22:37:35.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 45728: Payment gateway timeout.
+2025-10-01 22:41:29.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/80515 returned 500 in 432 ms.
+2025-10-01 22:50:47.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-01 22:59:32.000 [INFO] com.shopverse3.ordersystem - PUT /api/users/85582 returned 500 in 495 ms.
+2025-10-01 23:06:00.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 65561: Payment gateway timeout.
+2025-10-01 23:11:49.000 [INFO] com.shopverse3.ordersystem - GET /api/users/71561 returned 200 in 423 ms.
+2025-10-01 23:12:45.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 6256. SMTPException: Connection reset.
+2025-10-01 23:19:29.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 66412 due to network issue.
+2025-10-01 23:29:20.000 [ERROR] com.shopverse3.ordersystem - GET /api/payments/78689 returned 200 in 79 ms.
+2025-10-01 23:31:26.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 23:36:54.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 81412: Payment gateway timeout.
+2025-10-01 23:38:07.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 18813: Payment gateway timeout.
+2025-10-01 23:45:08.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-01 23:45:24.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/24217 returned 200 in 95 ms.
+2025-10-01 23:53:39.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 2653. SMTPException: Connection reset.
+2025-10-02 00:00:26.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 6506.
+2025-10-02 00:08:03.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 7450. SMTPException: Connection reset.
+2025-10-02 00:12:05.000 [INFO] com.shopverse3.ordersystem - PUT /api/products/21434 returned 500 in 84 ms.
+2025-10-02 00:16:53.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 48469: Payment gateway timeout.
+2025-10-02 00:21:26.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 00:23:38.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/99049 returned 500 in 211 ms.
+2025-10-02 00:28:59.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-02 00:31:18.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 33834 due to network issue.
+2025-10-02 00:38:32.000 [WARN] com.shopverse3.ordersystem - User 4525 successfully logged in.
+2025-10-02 00:46:15.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 1086. SMTPException: Connection reset.
+2025-10-02 00:55:19.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/80838 returned 500 in 63 ms.
+2025-10-02 01:03:38.000 [WARN] com.shopverse3.ordersystem - User 3254 successfully logged in.
+2025-10-02 01:08:32.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/98452 returned 500 in 212 ms.
+2025-10-02 01:09:22.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/56648 returned 500 in 355 ms.
+2025-10-02 01:09:37.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 01:14:51.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 01:19:03.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 21127 due to network issue.
+2025-10-02 01:23:29.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-02 01:28:06.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-02 01:37:53.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/83149 returned 500 in 454 ms.
+2025-10-02 01:44:16.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 33943: Payment gateway timeout.
+2025-10-02 01:45:06.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 8124.
+2025-10-02 01:49:09.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5864.
+2025-10-02 01:55:12.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/59194 returned 200 in 300 ms.
+2025-10-02 02:04:11.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4782. SMTPException: Connection reset.
+2025-10-02 02:12:30.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 47290: Payment gateway timeout.
+2025-10-02 02:12:48.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-02 02:20:23.000 [WARN] com.shopverse3.ordersystem - User 3456 successfully logged in.
+2025-10-02 02:25:45.000 [INFO] com.shopverse3.ordersystem - User 1750 successfully logged in.
+2025-10-02 02:26:13.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 21554 due to network issue.
+2025-10-02 02:33:03.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4440.
+2025-10-02 02:37:42.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 81928 due to network issue.
+2025-10-02 02:44:42.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-02 02:47:43.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 68078: Payment gateway timeout.
+2025-10-02 02:53:24.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 7641. SMTPException: Connection reset.
+2025-10-02 02:55:34.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 7159. SMTPException: Connection reset.
+2025-10-02 03:03:46.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-02 03:06:02.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/74625 returned 500 in 92 ms.
+2025-10-02 03:13:48.000 [WARN] com.shopverse3.ordersystem - PUT /api/orders/50493 returned 500 in 173 ms.
+2025-10-02 03:20:58.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 03:24:48.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 6480. SMTPException: Connection reset.
+2025-10-02 03:34:34.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4136.
+2025-10-02 03:40:30.000 [INFO] com.shopverse3.ordersystem - User 5504 successfully logged in.
+2025-10-02 03:48:15.000 [INFO] com.shopverse3.ordersystem - User 2794 successfully logged in.
+2025-10-02 03:58:05.000 [ERROR] com.shopverse3.ordersystem - User 2108 successfully logged in.
+2025-10-02 04:02:07.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/12427 returned 500 in 296 ms.
+2025-10-02 04:03:03.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 71377, amount $986.55402272.
+2025-10-02 04:05:32.000 [WARN] com.shopverse3.ordersystem - User 2633 successfully logged in.
+2025-10-02 04:15:19.000 [INFO] com.shopverse3.ordersystem - User 2264 successfully logged in.
+2025-10-02 04:18:35.000 [WARN] com.shopverse3.ordersystem - User 4171 successfully logged in.
+2025-10-02 04:19:56.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 1686. SMTPException: Connection reset.
+2025-10-02 04:25:08.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/90802 returned 200 in 85 ms.
+2025-10-02 04:27:39.000 [INFO] com.shopverse3.ordersystem - GET /api/products/88459 returned 200 in 498 ms.
+2025-10-02 04:34:28.000 [INFO] com.shopverse3.ordersystem - User 2821 successfully logged in.
+2025-10-02 04:36:14.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 57495 due to network issue.
+2025-10-02 04:40:22.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 04:47:23.000 [ERROR] com.shopverse3.ordersystem - GET /api/products/84592 returned 200 in 85 ms.
+2025-10-02 04:56:38.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 92274, amount $534.92807793.
+2025-10-02 05:03:40.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 05:12:58.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-02 05:22:47.000 [INFO] com.shopverse3.ordersystem - PUT /api/cart/55831 returned 500 in 133 ms.
+2025-10-02 05:30:55.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 5121.
+2025-10-02 05:35:39.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/29338 returned 500 in 156 ms.
+2025-10-02 05:36:56.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 05:43:09.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 05:52:27.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-02 05:58:08.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 6084.
+2025-10-02 06:00:21.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 97176, amount $435.02957748.
+2025-10-02 06:01:07.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/68565 returned 500 in 239 ms.
+2025-10-02 06:02:54.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/29875 returned 200 in 387 ms.
+2025-10-02 06:04:16.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-02 06:11:05.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 06:21:04.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/37353 returned 500 in 266 ms.
+2025-10-02 06:25:44.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 31539: Payment gateway timeout.
+2025-10-02 06:26:30.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 6591.
+2025-10-02 06:35:51.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4351. SMTPException: Connection reset.
+2025-10-02 06:36:24.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 06:38:30.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-02 06:46:19.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/71676 returned 500 in 186 ms.
+2025-10-02 06:46:34.000 [ERROR] com.shopverse3.ordersystem - User 4490 successfully logged in.
+2025-10-02 06:47:33.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 1659. SMTPException: Connection reset.
+2025-10-02 06:53:22.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 79468, amount $383.16796538.
+2025-10-02 06:54:42.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/51543 returned 500 in 38 ms.
+2025-10-02 07:00:23.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/13704 returned 200 in 182 ms.
+2025-10-02 07:06:43.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 07:15:24.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 96992, amount $763.12578787.
+2025-10-02 07:21:37.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 71376: Payment gateway timeout.
+2025-10-02 07:26:47.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/64001 returned 500 in 189 ms.
+2025-10-02 07:30:18.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 07:38:54.000 [WARN] com.shopverse3.ordersystem - GET /api/users/80198 returned 200 in 71 ms.
+2025-10-02 07:46:21.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 2169.
+2025-10-02 07:56:14.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 35208: Payment gateway timeout.
+2025-10-02 08:04:23.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/49818 returned 500 in 222 ms.
+2025-10-02 08:09:10.000 [ERROR] com.shopverse3.ordersystem - User 7795 successfully logged in.
+2025-10-02 08:14:38.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/52526 returned 200 in 314 ms.
+2025-10-02 08:19:29.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 17283, amount $181.47060322.
+2025-10-02 08:20:33.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 27052 due to network issue.
+2025-10-02 08:29:29.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 48167: Payment gateway timeout.
+2025-10-02 08:35:44.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 3434. SMTPException: Connection reset.
+2025-10-02 08:45:37.000 [ERROR] com.shopverse3.ordersystem - User 2811 successfully logged in.
+2025-10-02 08:48:46.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/83461 returned 500 in 192 ms.
+2025-10-02 08:56:08.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 48418, amount $546.62898064.
+2025-10-02 09:00:02.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 8659. SMTPException: Connection reset.
+2025-10-02 09:06:47.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 3760. SMTPException: Connection reset.
+2025-10-02 09:08:56.000 [WARN] com.shopverse3.ordersystem - User 3807 successfully logged in.
+2025-10-02 09:18:51.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 12059: Payment gateway timeout.
+2025-10-02 09:19:28.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 56543, amount $120.00745005.
+2025-10-02 09:23:58.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 79340: Payment gateway timeout.
+2025-10-02 09:30:21.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 20201: Payment gateway timeout.
+2025-10-02 09:39:51.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 79434 due to network issue.
+2025-10-02 09:47:02.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 09:54:45.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 66167, amount $818.69822755.
+2025-10-02 09:59:10.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 34546 due to network issue.
+2025-10-02 10:01:36.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 23948, amount $985.75692010.
+2025-10-02 10:06:56.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4714. SMTPException: Connection reset.
+2025-10-02 10:14:45.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 6040. SMTPException: Connection reset.
+2025-10-02 10:16:57.000 [INFO] com.shopverse3.ordersystem - User 3596 successfully logged in.
+2025-10-02 10:24:18.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/20473 returned 500 in 83 ms.
+2025-10-02 10:28:44.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 41138, amount $25.85666574.
+2025-10-02 10:38:31.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 76445, amount $880.01712716.
+2025-10-02 10:41:16.000 [ERROR] com.shopverse3.ordersystem - User 9858 successfully logged in.
+2025-10-02 10:50:20.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 10:57:29.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 86497 due to network issue.
+2025-10-02 11:04:12.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 11:09:28.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/46545 returned 200 in 140 ms.
+2025-10-02 11:15:16.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-02 11:21:50.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/41248 returned 500 in 77 ms.
+2025-10-02 11:28:33.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/78271 returned 500 in 116 ms.
+2025-10-02 11:29:13.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 3226.
+2025-10-02 11:35:10.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 18712, amount $449.18997556.
+2025-10-02 11:38:32.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 8176. SMTPException: Connection reset.
+2025-10-02 11:43:37.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 32308 due to network issue.
+2025-10-02 11:46:41.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 3483.
+2025-10-02 11:47:38.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-02 11:51:35.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 8216. SMTPException: Connection reset.
+2025-10-02 11:56:47.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-02 12:05:46.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 29126, amount $341.83799195.
+2025-10-02 12:06:15.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 90932: Payment gateway timeout.
+2025-10-02 12:09:39.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/99735 returned 500 in 348 ms.
+2025-10-02 12:15:49.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 8274. SMTPException: Connection reset.
+2025-10-02 12:23:07.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/27556 returned 200 in 371 ms.
+2025-10-02 12:28:50.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/31836 returned 500 in 455 ms.
+2025-10-02 12:31:43.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 14654, amount $304.93308275.
+2025-10-02 12:40:02.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 7900. SMTPException: Connection reset.
+2025-10-02 12:44:43.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 54266 due to network issue.
+2025-10-02 12:52:21.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 1289. SMTPException: Connection reset.
+2025-10-02 12:58:25.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5492. SMTPException: Connection reset.
+2025-10-02 12:59:57.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/77527 returned 500 in 422 ms.
+2025-10-02 13:04:54.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 56827: Payment gateway timeout.
+2025-10-02 13:10:28.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-02 13:19:18.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 13:22:12.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 13:28:40.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 13933: Payment gateway timeout.
+2025-10-02 13:36:57.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 13:41:24.000 [WARN] com.shopverse3.ordersystem - User 7631 successfully logged in.
+2025-10-02 13:48:58.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 13:53:18.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 13:54:46.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 13:55:44.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 32691: Payment gateway timeout.
+2025-10-02 14:03:55.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/75215 returned 500 in 125 ms.
+2025-10-02 14:04:13.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 14:13:50.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 6323.
+2025-10-02 14:15:45.000 [WARN] com.shopverse3.ordersystem - GET /api/users/53836 returned 200 in 455 ms.
+2025-10-02 14:18:06.000 [WARN] com.shopverse3.ordersystem - User 5873 successfully logged in.
+2025-10-02 14:18:53.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/43361 returned 200 in 498 ms.
+2025-10-02 14:19:55.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 5686. SMTPException: Connection reset.
+2025-10-02 14:22:13.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 24641: Payment gateway timeout.
+2025-10-02 14:27:05.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-02 14:32:07.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/99948 returned 200 in 270 ms.
+2025-10-02 14:34:23.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 39976 due to network issue.
+2025-10-02 14:37:07.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4561. SMTPException: Connection reset.
+2025-10-02 14:46:59.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 4141. SMTPException: Connection reset.
+2025-10-02 14:50:18.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/72784 returned 500 in 152 ms.
+2025-10-02 14:55:43.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/31230 returned 500 in 398 ms.
+2025-10-02 15:05:26.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-02 15:11:35.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 2965. SMTPException: Connection reset.
+2025-10-02 15:12:59.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/63883 returned 500 in 489 ms.
+2025-10-02 15:22:50.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/48668 returned 200 in 372 ms.
+2025-10-02 15:24:53.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 72466, amount $57.44320294.
+2025-10-02 15:29:53.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9750.
+2025-10-02 15:37:13.000 [INFO] com.shopverse3.ordersystem - User 6614 successfully logged in.
+2025-10-02 15:40:12.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 15:49:37.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 7585. SMTPException: Connection reset.
+2025-10-02 15:58:03.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 39944 due to network issue.
+2025-10-02 16:05:07.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 3394.
+2025-10-02 16:13:12.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 16:16:10.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 32728 due to network issue.
+2025-10-02 16:18:50.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 47235: Payment gateway timeout.
+2025-10-02 16:24:15.000 [WARN] com.shopverse3.ordersystem - User 3976 successfully logged in.
+2025-10-02 16:24:57.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 2864.
+2025-10-02 16:31:56.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/82709 returned 500 in 92 ms.
+2025-10-02 16:39:29.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 26830: Payment gateway timeout.
+2025-10-02 16:46:12.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 12260: Payment gateway timeout.
+2025-10-02 16:53:41.000 [ERROR] com.shopverse3.ordersystem - User 4711 successfully logged in.
+2025-10-02 16:58:57.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 3397.
+2025-10-02 17:05:10.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 9414. SMTPException: Connection reset.
+2025-10-02 17:11:10.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/60082 returned 500 in 179 ms.
+2025-10-02 17:11:20.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 80270, amount $24.11676831.
+2025-10-02 17:18:17.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/36291 returned 500 in 435 ms.
+2025-10-02 17:21:04.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 17:26:09.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 17:34:00.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 17:34:21.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4795.
+2025-10-02 17:38:59.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 17:45:48.000 [INFO] com.shopverse3.ordersystem - User 8113 successfully logged in.
+2025-10-02 17:48:54.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 8863.
+2025-10-02 17:50:48.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5033. SMTPException: Connection reset.
+2025-10-02 17:57:48.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 18:05:18.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 30687: Payment gateway timeout.
+2025-10-02 18:10:10.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 5792.
+2025-10-02 18:14:57.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 37805 due to network issue.
+2025-10-02 18:24:02.000 [INFO] com.shopverse3.ordersystem - GET /api/products/38939 returned 200 in 24 ms.
+2025-10-02 18:27:42.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 18:35:08.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 4885. SMTPException: Connection reset.
+2025-10-02 18:41:27.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-02 18:42:37.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 18:46:05.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/13357 returned 500 in 72 ms.
+2025-10-02 18:50:46.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 7735.
+2025-10-02 19:00:45.000 [WARN] com.shopverse3.ordersystem - GET /api/products/91025 returned 200 in 163 ms.
+2025-10-02 19:04:08.000 [WARN] com.shopverse3.ordersystem - GET /api/users/73901 returned 200 in 30 ms.
+2025-10-02 19:05:00.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 19:06:28.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/55547 returned 500 in 424 ms.
+2025-10-02 19:12:59.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 2691.
+2025-10-02 19:21:50.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 19:28:38.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/53659 returned 500 in 159 ms.
+2025-10-02 19:30:25.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 58922: Payment gateway timeout.
+2025-10-02 19:35:21.000 [INFO] com.shopverse3.ordersystem - GET /api/products/59172 returned 200 in 380 ms.
+2025-10-02 19:44:55.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 1405.
+2025-10-02 19:50:18.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 19:57:18.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 2047. SMTPException: Connection reset.
+2025-10-02 20:06:52.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 20:16:08.000 [WARN] com.shopverse3.ordersystem - GET /api/payments/81472 returned 200 in 500 ms.
+2025-10-02 20:21:48.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 98642, amount $460.03888575.
+2025-10-02 20:24:23.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 11997 due to network issue.
+2025-10-02 20:25:39.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 20:31:03.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 20:35:31.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 73822 due to network issue.
+2025-10-02 20:37:54.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 8123.
+2025-10-02 20:40:14.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 45833 due to network issue.
+2025-10-02 20:40:36.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 46205 due to network issue.
+2025-10-02 20:43:43.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/54661 returned 500 in 149 ms.
+2025-10-02 20:50:44.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 45415: Payment gateway timeout.
+2025-10-02 20:57:03.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 4574. SMTPException: Connection reset.
+2025-10-02 21:05:50.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/97962 returned 500 in 191 ms.
+2025-10-02 21:14:03.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 10455, amount $641.17513570.
+2025-10-02 21:21:27.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 6445.
+2025-10-02 21:28:34.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 57659: Payment gateway timeout.
+2025-10-02 21:37:16.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 3884.
+2025-10-02 21:44:36.000 [WARN] com.shopverse3.ordersystem - PUT /api/products/98977 returned 500 in 213 ms.
+2025-10-02 21:45:21.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-02 21:45:50.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 42834: Payment gateway timeout.
+2025-10-02 21:49:45.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 72631 due to network issue.
+2025-10-02 21:51:09.000 [INFO] com.shopverse3.ordersystem - PUT /api/users/45425 returned 500 in 344 ms.
+2025-10-02 21:55:57.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 36119 due to network issue.
+2025-10-02 21:58:34.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 7651. SMTPException: Connection reset.
+2025-10-02 22:01:47.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/46043 returned 500 in 243 ms.
+2025-10-02 22:05:11.000 [INFO] com.shopverse3.ordersystem - User 9708 successfully logged in.
+2025-10-02 22:08:15.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-02 22:10:38.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 10985, amount $859.88673363.
+2025-10-02 22:20:23.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 53291: Payment gateway timeout.
+2025-10-02 22:24:10.000 [WARN] com.shopverse3.ordersystem - User 2250 successfully logged in.
+2025-10-02 22:24:56.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/81240 returned 500 in 151 ms.
+2025-10-02 22:33:22.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 83233: Payment gateway timeout.
+2025-10-02 22:34:47.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-02 22:43:56.000 [ERROR] com.shopverse3.ordersystem - User 5593 successfully logged in.
+2025-10-02 22:50:55.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-02 22:59:19.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 20446, amount $197.98551641.
+2025-10-02 23:04:01.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/79092 returned 500 in 255 ms.
+2025-10-02 23:07:23.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/90207 returned 500 in 108 ms.
+2025-10-02 23:13:19.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 7760.
+2025-10-02 23:21:49.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 6179.
+2025-10-02 23:25:45.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 13174: Payment gateway timeout.
+2025-10-02 23:35:25.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 43390 due to network issue.
+2025-10-02 23:42:10.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4811. SMTPException: Connection reset.
+2025-10-02 23:51:44.000 [INFO] com.shopverse3.ordersystem - User 9130 successfully logged in.
+2025-10-02 23:57:57.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 00:01:06.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 93943, amount $494.11650009.
+2025-10-03 00:02:57.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 83349 due to network issue.
+2025-10-03 00:05:04.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 1993. SMTPException: Connection reset.
+2025-10-03 00:12:15.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 29201, amount $55.10347585.
+2025-10-03 00:14:25.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 11975: Payment gateway timeout.
+2025-10-03 00:16:31.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 15895: Payment gateway timeout.
+2025-10-03 00:23:23.000 [ERROR] com.shopverse3.ordersystem - User 9493 successfully logged in.
+2025-10-03 00:31:31.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 00:41:04.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 52903, amount $563.50084406.
+2025-10-03 00:44:54.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 86564 due to network issue.
+2025-10-03 00:45:25.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/90197 returned 500 in 493 ms.
+2025-10-03 00:46:04.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 23594: Payment gateway timeout.
+2025-10-03 00:52:02.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 64034: Payment gateway timeout.
+2025-10-03 00:59:16.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 2585. SMTPException: Connection reset.
+2025-10-03 01:01:37.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 01:04:27.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 15271 due to network issue.
+2025-10-03 01:06:09.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4746. SMTPException: Connection reset.
+2025-10-03 01:11:12.000 [ERROR] com.shopverse3.ordersystem - GET /api/payments/71964 returned 200 in 39 ms.
+2025-10-03 01:14:57.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 6017. SMTPException: Connection reset.
+2025-10-03 01:18:40.000 [ERROR] com.shopverse3.ordersystem - User 1296 successfully logged in.
+2025-10-03 01:27:06.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 39273 due to network issue.
+2025-10-03 01:30:24.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 24249: Payment gateway timeout.
+2025-10-03 01:37:50.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/10485 returned 500 in 254 ms.
+2025-10-03 01:43:21.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 35993 due to network issue.
+2025-10-03 01:52:22.000 [ERROR] com.shopverse3.ordersystem - User 1282 successfully logged in.
+2025-10-03 02:01:41.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 93095: Payment gateway timeout.
+2025-10-03 02:07:58.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/12414 returned 200 in 216 ms.
+2025-10-03 02:16:48.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 70687, amount $255.88667036.
+2025-10-03 02:26:36.000 [ERROR] com.shopverse3.ordersystem - GET /api/orders/73925 returned 200 in 173 ms.
+2025-10-03 02:33:01.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 99634: Payment gateway timeout.
+2025-10-03 02:41:21.000 [INFO] com.shopverse3.ordersystem - GET /api/products/24923 returned 200 in 129 ms.
+2025-10-03 02:46:17.000 [WARN] com.shopverse3.ordersystem - PUT /api/orders/28352 returned 500 in 12 ms.
+2025-10-03 02:54:53.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 49399, amount $808.26203627.
+2025-10-03 03:00:28.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 34224: Payment gateway timeout.
+2025-10-03 03:01:39.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 03:10:59.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 03:12:36.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4295. SMTPException: Connection reset.
+2025-10-03 03:20:51.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/31892 returned 500 in 221 ms.
+2025-10-03 03:24:07.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/78372 returned 500 in 457 ms.
+2025-10-03 03:33:09.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 8906.
+2025-10-03 03:38:17.000 [INFO] com.shopverse3.ordersystem - PUT /api/payments/77062 returned 500 in 218 ms.
+2025-10-03 03:47:17.000 [ERROR] com.shopverse3.ordersystem - User 5032 successfully logged in.
+2025-10-03 03:57:08.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 31040, amount $912.93758695.
+2025-10-03 04:00:34.000 [INFO] com.shopverse3.ordersystem - User 4868 successfully logged in.
+2025-10-03 04:06:31.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 79562 due to network issue.
+2025-10-03 04:16:27.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 04:22:34.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 67539: Payment gateway timeout.
+2025-10-03 04:31:53.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 58433, amount $65.54091793.
+2025-10-03 04:33:32.000 [INFO] com.shopverse3.ordersystem - GET /api/users/27306 returned 200 in 258 ms.
+2025-10-03 04:41:31.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/29081 returned 500 in 378 ms.
+2025-10-03 04:50:59.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/96142 returned 500 in 251 ms.
+2025-10-03 04:58:02.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 46688 due to network issue.
+2025-10-03 05:05:24.000 [ERROR] com.shopverse3.ordersystem - User 9226 successfully logged in.
+2025-10-03 05:12:28.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 05:21:37.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/77625 returned 500 in 59 ms.
+2025-10-03 05:23:23.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 97540 due to network issue.
+2025-10-03 05:29:02.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 41360 due to network issue.
+2025-10-03 05:37:17.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5450. SMTPException: Connection reset.
+2025-10-03 05:43:55.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/37987 returned 500 in 137 ms.
+2025-10-03 05:48:53.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 99417: Payment gateway timeout.
+2025-10-03 05:55:18.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 20876 due to network issue.
+2025-10-03 06:03:30.000 [WARN] com.shopverse3.ordersystem - GET /api/payments/51572 returned 200 in 416 ms.
+2025-10-03 06:08:53.000 [WARN] com.shopverse3.ordersystem - User 3771 successfully logged in.
+2025-10-03 06:16:51.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 06:24:45.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/26852 returned 500 in 458 ms.
+2025-10-03 06:27:22.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 06:33:32.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 06:34:32.000 [WARN] com.shopverse3.ordersystem - User 7830 successfully logged in.
+2025-10-03 06:41:25.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 2079.
+2025-10-03 06:49:43.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 22746: Payment gateway timeout.
+2025-10-03 06:56:57.000 [ERROR] com.shopverse3.ordersystem - User 4355 successfully logged in.
+2025-10-03 07:04:33.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 07:06:59.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 71591: Payment gateway timeout.
+2025-10-03 07:14:14.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 07:21:01.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/27245 returned 500 in 12 ms.
+2025-10-03 07:24:33.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 07:30:01.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 07:34:03.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 32141 due to network issue.
+2025-10-03 07:38:05.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/54113 returned 200 in 139 ms.
+2025-10-03 07:39:14.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-03 07:45:35.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 77055 due to network issue.
+2025-10-03 07:50:34.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 07:53:16.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 08:01:24.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/22031 returned 500 in 95 ms.
+2025-10-03 08:02:02.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 08:08:40.000 [WARN] com.shopverse3.ordersystem - User 3635 successfully logged in.
+2025-10-03 08:13:44.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 5341.
+2025-10-03 08:23:17.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 2774.
+2025-10-03 08:30:29.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 49946, amount $610.73639816.
+2025-10-03 08:33:10.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 32470 due to network issue.
+2025-10-03 08:35:29.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 82272: Payment gateway timeout.
+2025-10-03 08:43:52.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/78186 returned 500 in 74 ms.
+2025-10-03 08:45:53.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 08:52:34.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 9771. SMTPException: Connection reset.
+2025-10-03 09:01:14.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 69836 due to network issue.
+2025-10-03 09:10:29.000 [ERROR] com.shopverse3.ordersystem - User 9862 successfully logged in.
+2025-10-03 09:14:44.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 09:22:03.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9615.
+2025-10-03 09:29:35.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 09:36:21.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 09:39:31.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 9912. SMTPException: Connection reset.
+2025-10-03 09:47:36.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/11475 returned 200 in 243 ms.
+2025-10-03 09:57:28.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 10:03:40.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 51931, amount $815.72200303.
+2025-10-03 10:06:39.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 54226, amount $142.06854598.
+2025-10-03 10:16:18.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 10:23:07.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 13519: Payment gateway timeout.
+2025-10-03 10:26:51.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 2361. SMTPException: Connection reset.
+2025-10-03 10:33:09.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 10:39:36.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4235. SMTPException: Connection reset.
+2025-10-03 10:42:26.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 34034 due to network issue.
+2025-10-03 10:46:51.000 [INFO] com.shopverse3.ordersystem - PUT /api/products/52874 returned 500 in 90 ms.
+2025-10-03 10:54:45.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 6769.
+2025-10-03 10:57:02.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 11:01:17.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 30507, amount $730.02780481.
+2025-10-03 11:02:16.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 11:04:51.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 33244 due to network issue.
+2025-10-03 11:08:56.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 11:17:59.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 11:22:59.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 11:25:10.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 11:30:40.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 8689. SMTPException: Connection reset.
+2025-10-03 11:37:34.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/40410 returned 500 in 288 ms.
+2025-10-03 11:37:58.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 11:38:23.000 [INFO] com.shopverse3.ordersystem - GET /api/products/92747 returned 200 in 115 ms.
+2025-10-03 11:41:28.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4902. SMTPException: Connection reset.
+2025-10-03 11:45:40.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 76502: Payment gateway timeout.
+2025-10-03 11:53:46.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 11:54:51.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 6899.
+2025-10-03 12:03:11.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 1043.
+2025-10-03 12:09:41.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 2783. SMTPException: Connection reset.
+2025-10-03 12:15:57.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 97970 due to network issue.
+2025-10-03 12:17:39.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 12:26:55.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/26490 returned 500 in 138 ms.
+2025-10-03 12:34:19.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 78553: Payment gateway timeout.
+2025-10-03 12:36:23.000 [ERROR] com.shopverse3.ordersystem - User 4738 successfully logged in.
+2025-10-03 12:46:13.000 [ERROR] com.shopverse3.ordersystem - User 5494 successfully logged in.
+2025-10-03 12:51:18.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 84831: Payment gateway timeout.
+2025-10-03 12:54:44.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 20348 due to network issue.
+2025-10-03 13:02:03.000 [WARN] com.shopverse3.ordersystem - GET /api/cart/75090 returned 200 in 490 ms.
+2025-10-03 13:09:40.000 [ERROR] com.shopverse3.ordersystem - User 9177 successfully logged in.
+2025-10-03 13:16:27.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 13:19:30.000 [INFO] com.shopverse3.ordersystem - PUT /api/payments/18921 returned 500 in 430 ms.
+2025-10-03 13:27:01.000 [ERROR] com.shopverse3.ordersystem - User 4074 successfully logged in.
+2025-10-03 13:33:12.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 22248: Payment gateway timeout.
+2025-10-03 13:36:02.000 [INFO] com.shopverse3.ordersystem - User 2360 successfully logged in.
+2025-10-03 13:44:50.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 50010, amount $75.62832027.
+2025-10-03 13:47:31.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 13:49:17.000 [WARN] com.shopverse3.ordersystem - GET /api/cart/55565 returned 200 in 332 ms.
+2025-10-03 13:54:16.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 56432 due to network issue.
+2025-10-03 14:02:12.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 26089, amount $854.99362660.
+2025-10-03 14:03:28.000 [WARN] com.shopverse3.ordersystem - User 9317 successfully logged in.
+2025-10-03 14:12:34.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 14:15:08.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 6416.
+2025-10-03 14:24:16.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 90260, amount $76.27840163.
+2025-10-03 14:25:12.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/94278 returned 200 in 334 ms.
+2025-10-03 14:30:55.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 14:35:50.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 6472. SMTPException: Connection reset.
+2025-10-03 14:43:16.000 [WARN] com.shopverse3.ordersystem - User 4340 successfully logged in.
+2025-10-03 14:47:36.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 1760. SMTPException: Connection reset.
+2025-10-03 14:50:30.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 88651: Payment gateway timeout.
+2025-10-03 14:56:34.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 8366.
+2025-10-03 15:04:31.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 15:06:06.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 15:06:28.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/41248 returned 500 in 281 ms.
+2025-10-03 15:11:01.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 15:16:45.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 19210 due to network issue.
+2025-10-03 15:26:25.000 [INFO] com.shopverse3.ordersystem - PUT /api/cart/25599 returned 500 in 123 ms.
+2025-10-03 15:35:34.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 15:36:55.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 10296 due to network issue.
+2025-10-03 15:44:07.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 1586.
+2025-10-03 15:49:00.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 9970.
+2025-10-03 15:57:50.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 92573, amount $295.14898614.
+2025-10-03 16:04:58.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 53973, amount $301.91830712.
+2025-10-03 16:11:28.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/58755 returned 200 in 322 ms.
+2025-10-03 16:15:52.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 7290. SMTPException: Connection reset.
+2025-10-03 16:19:29.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 99182: Payment gateway timeout.
+2025-10-03 16:22:06.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 2926.
+2025-10-03 16:22:26.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 16:23:19.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 16:25:40.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/86376 returned 500 in 229 ms.
+2025-10-03 16:29:50.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 26777, amount $170.29649237.
+2025-10-03 16:30:47.000 [WARN] com.shopverse3.ordersystem - GET /api/orders/48865 returned 200 in 345 ms.
+2025-10-03 16:36:59.000 [INFO] com.shopverse3.ordersystem - User 1793 successfully logged in.
+2025-10-03 16:40:17.000 [INFO] com.shopverse3.ordersystem - PUT /api/cart/13637 returned 500 in 109 ms.
+2025-10-03 16:44:05.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 88111 due to network issue.
+2025-10-03 16:51:46.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/46818 returned 500 in 486 ms.
+2025-10-03 16:52:11.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 17:01:50.000 [INFO] com.shopverse3.ordersystem - GET /api/products/18234 returned 200 in 68 ms.
+2025-10-03 17:11:14.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/16651 returned 500 in 44 ms.
+2025-10-03 17:15:42.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 4188. SMTPException: Connection reset.
+2025-10-03 17:17:14.000 [WARN] com.shopverse3.ordersystem - PUT /api/orders/32569 returned 500 in 66 ms.
+2025-10-03 17:18:03.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/99640 returned 500 in 135 ms.
+2025-10-03 17:22:45.000 [INFO] com.shopverse3.ordersystem - GET /api/users/75735 returned 200 in 450 ms.
+2025-10-03 17:26:32.000 [INFO] com.shopverse3.ordersystem - PUT /api/cart/25586 returned 500 in 409 ms.
+2025-10-03 17:35:36.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 17:38:15.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 1906.
+2025-10-03 17:40:05.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 17:46:41.000 [ERROR] com.shopverse3.ordersystem - PUT /api/payments/17826 returned 500 in 485 ms.
+2025-10-03 17:54:02.000 [INFO] com.shopverse3.ordersystem - PUT /api/cart/37493 returned 500 in 318 ms.
+2025-10-03 17:58:08.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 18:04:44.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/80645 returned 200 in 394 ms.
+2025-10-03 18:13:26.000 [ERROR] com.shopverse3.ordersystem - GET /api/payments/33512 returned 200 in 447 ms.
+2025-10-03 18:21:51.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 18:29:21.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 35618: Payment gateway timeout.
+2025-10-03 18:37:53.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 31611, amount $97.28168643.
+2025-10-03 18:44:05.000 [ERROR] com.shopverse3.ordersystem - User 9150 successfully logged in.
+2025-10-03 18:49:14.000 [WARN] com.shopverse3.ordersystem - User 2080 successfully logged in.
+2025-10-03 18:54:11.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 1356.
+2025-10-03 18:54:47.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 97609: Payment gateway timeout.
+2025-10-03 18:57:34.000 [WARN] com.shopverse3.ordersystem - User 4101 successfully logged in.
+2025-10-03 19:03:30.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 52582 due to network issue.
+2025-10-03 19:11:09.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 19:14:28.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/89088 returned 200 in 381 ms.
+2025-10-03 19:15:17.000 [ERROR] com.shopverse3.ordersystem - User 4971 successfully logged in.
+2025-10-03 19:15:41.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9773.
+2025-10-03 19:18:09.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 3924.
+2025-10-03 19:20:29.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 9187.
+2025-10-03 19:28:19.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 4961.
+2025-10-03 19:32:36.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 2928. SMTPException: Connection reset.
+2025-10-03 19:35:26.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 41408, amount $605.90602187.
+2025-10-03 19:37:06.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 5377. SMTPException: Connection reset.
+2025-10-03 19:45:15.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 19:49:03.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 57164: Payment gateway timeout.
+2025-10-03 19:56:25.000 [INFO] com.shopverse3.ordersystem - User 4172 successfully logged in.
+2025-10-03 19:59:43.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 20:08:38.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/41800 returned 200 in 450 ms.
+2025-10-03 20:14:43.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 9881.
+2025-10-03 20:22:09.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 54514, amount $64.74203721.
+2025-10-03 20:25:53.000 [ERROR] com.shopverse3.ordersystem - GET /api/users/12139 returned 200 in 11 ms.
+2025-10-03 20:29:20.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 78952: Payment gateway timeout.
+2025-10-03 20:30:36.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 3900.
+2025-10-03 20:36:21.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 20:41:09.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/70708 returned 500 in 380 ms.
+2025-10-03 20:48:13.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 88247: Payment gateway timeout.
+2025-10-03 20:53:31.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 20:56:37.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 21:05:01.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-03 21:12:12.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 21:17:23.000 [INFO] com.shopverse3.ordersystem - PUT /api/users/32959 returned 500 in 406 ms.
+2025-10-03 21:19:50.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 21:26:22.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 9058.
+2025-10-03 21:33:27.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5483. SMTPException: Connection reset.
+2025-10-03 21:40:27.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-03 21:50:23.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 9998.
+2025-10-03 21:52:12.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 1958. SMTPException: Connection reset.
+2025-10-03 22:01:32.000 [ERROR] com.shopverse3.ordersystem - User 1286 successfully logged in.
+2025-10-03 22:07:23.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 4972.
+2025-10-03 22:11:11.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 27499 due to network issue.
+2025-10-03 22:17:21.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 92115: Payment gateway timeout.
+2025-10-03 22:26:19.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/40646 returned 200 in 325 ms.
+2025-10-03 22:33:32.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-03 22:41:43.000 [INFO] com.shopverse3.ordersystem - PUT /api/orders/44521 returned 500 in 19 ms.
+2025-10-03 22:45:29.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 3396. SMTPException: Connection reset.
+2025-10-03 22:54:50.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 3301. SMTPException: Connection reset.
+2025-10-03 23:01:31.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 15382: Payment gateway timeout.
+2025-10-03 23:03:05.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 60520: Payment gateway timeout.
+2025-10-03 23:07:31.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 5117.
+2025-10-03 23:17:26.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-03 23:20:55.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 7193.
+2025-10-03 23:23:33.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 3083. SMTPException: Connection reset.
+2025-10-03 23:28:59.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 35248: Payment gateway timeout.
+2025-10-03 23:29:15.000 [WARN] com.shopverse3.ordersystem - User 4213 successfully logged in.
+2025-10-03 23:31:54.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 76844, amount $823.31785627.
+2025-10-03 23:39:48.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 98753, amount $956.01983603.
+2025-10-03 23:45:26.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-03 23:46:06.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-03 23:52:13.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 42225 due to network issue.
+2025-10-04 00:01:26.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 77221: Payment gateway timeout.
+2025-10-04 00:03:57.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 7031. SMTPException: Connection reset.
+2025-10-04 00:10:54.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/43188 returned 500 in 405 ms.
+2025-10-04 00:15:03.000 [INFO] com.shopverse3.ordersystem - User 9574 successfully logged in.
+2025-10-04 00:23:58.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 6040.
+2025-10-04 00:31:19.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 3482. SMTPException: Connection reset.
+2025-10-04 00:31:35.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/35652 returned 200 in 235 ms.
+2025-10-04 00:33:30.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 00:36:08.000 [ERROR] com.shopverse3.ordersystem - User 1282 successfully logged in.
+2025-10-04 00:36:52.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 43624: Payment gateway timeout.
+2025-10-04 00:38:47.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-04 00:47:33.000 [ERROR] com.shopverse3.ordersystem - GET /api/payments/95188 returned 200 in 93 ms.
+2025-10-04 00:53:07.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 93112, amount $675.64992620.
+2025-10-04 00:57:45.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 4566.
+2025-10-04 01:02:15.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 93415: Payment gateway timeout.
+2025-10-04 01:12:05.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 46362 due to network issue.
+2025-10-04 01:21:20.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 17291 due to network issue.
+2025-10-04 01:29:51.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 7983. SMTPException: Connection reset.
+2025-10-04 01:35:42.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-04 01:43:38.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 11097 due to network issue.
+2025-10-04 01:48:16.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/44137 returned 200 in 466 ms.
+2025-10-04 01:56:18.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 86971: Payment gateway timeout.
+2025-10-04 02:04:13.000 [INFO] com.shopverse3.ordersystem - PUT /api/users/58176 returned 500 in 461 ms.
+2025-10-04 02:09:26.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 3398.
+2025-10-04 02:15:34.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 2846.
+2025-10-04 02:17:06.000 [ERROR] com.shopverse3.ordersystem - PUT /api/users/73987 returned 500 in 223 ms.
+2025-10-04 02:22:07.000 [INFO] com.shopverse3.ordersystem - GET /api/cart/70657 returned 200 in 65 ms.
+2025-10-04 02:24:16.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 42838, amount $520.32712860.
+2025-10-04 02:31:15.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 3891. SMTPException: Connection reset.
+2025-10-04 02:32:37.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 88301: Payment gateway timeout.
+2025-10-04 02:32:58.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 97754, amount $12.85931348.
+2025-10-04 02:41:26.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 18079, amount $941.30882883.
+2025-10-04 02:42:16.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 15032 due to network issue.
+2025-10-04 02:50:39.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 1801.
+2025-10-04 03:00:30.000 [ERROR] com.shopverse3.ordersystem - GET /api/payments/36801 returned 200 in 339 ms.
+2025-10-04 03:07:28.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4840.
+2025-10-04 03:10:02.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 99017 due to network issue.
+2025-10-04 03:19:44.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 24367 due to network issue.
+2025-10-04 03:25:32.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/94019 returned 200 in 454 ms.
+2025-10-04 03:33:23.000 [INFO] com.shopverse3.ordersystem - PUT /api/products/29117 returned 500 in 209 ms.
+2025-10-04 03:37:37.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/61564 returned 500 in 275 ms.
+2025-10-04 03:42:54.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 93334, amount $160.95140900.
+2025-10-04 03:44:25.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-04 03:51:53.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 03:59:19.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 7962.
+2025-10-04 04:03:51.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 04:10:54.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 86598, amount $491.91081350.
+2025-10-04 04:13:17.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 30259 due to network issue.
+2025-10-04 04:20:58.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 11842, amount $55.13672276.
+2025-10-04 04:24:30.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 04:31:29.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 67591: Payment gateway timeout.
+2025-10-04 04:36:44.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 04:43:11.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-04 04:43:47.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-04 04:50:37.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-04 04:54:34.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 50358 due to network issue.
+2025-10-04 04:58:19.000 [ERROR] com.shopverse3.ordersystem - PUT /api/cart/71747 returned 500 in 479 ms.
+2025-10-04 05:05:18.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 18898 due to network issue.
+2025-10-04 05:05:36.000 [ERROR] com.shopverse3.ordersystem - User 2828 successfully logged in.
+2025-10-04 05:10:15.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 29367: Payment gateway timeout.
+2025-10-04 05:15:22.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 6558. SMTPException: Connection reset.
+2025-10-04 05:18:47.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 05:19:40.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 8810.
+2025-10-04 05:28:55.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 48832, amount $524.06748685.
+2025-10-04 05:34:27.000 [WARN] com.shopverse3.ordersystem - PUT /api/orders/53615 returned 500 in 333 ms.
+2025-10-04 05:40:13.000 [INFO] com.shopverse3.ordersystem - User 3556 successfully logged in.
+2025-10-04 05:40:47.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 05:43:14.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 05:45:44.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 6431.
+2025-10-04 05:52:23.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 4483.
+2025-10-04 05:56:21.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 8009. SMTPException: Connection reset.
+2025-10-04 05:56:54.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 76526, amount $793.44852295.
+2025-10-04 06:04:02.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-04 06:08:49.000 [INFO] com.shopverse3.ordersystem - User 1814 successfully logged in.
+2025-10-04 06:17:19.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 16612 due to network issue.
+2025-10-04 06:25:10.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 14917 due to network issue.
+2025-10-04 06:30:45.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 3761. SMTPException: Connection reset.
+2025-10-04 06:34:56.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 7374.
+2025-10-04 06:36:51.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 06:43:26.000 [WARN] com.shopverse3.ordersystem - User 7075 successfully logged in.
+2025-10-04 06:51:20.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 2730.
+2025-10-04 06:59:14.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 8993.
+2025-10-04 07:02:15.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 07:04:59.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 35547, amount $186.69198805.
+2025-10-04 07:10:15.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 07:18:20.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-04 07:27:39.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 23253 due to network issue.
+2025-10-04 07:29:37.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 31801 due to network issue.
+2025-10-04 07:35:56.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 1483.
+2025-10-04 07:40:54.000 [INFO] com.shopverse3.ordersystem - PUT /api/products/44572 returned 500 in 230 ms.
+2025-10-04 07:47:51.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 07:52:56.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 98229, amount $745.00077512.
+2025-10-04 08:02:41.000 [WARN] com.shopverse3.ordersystem - User 4596 successfully logged in.
+2025-10-04 08:06:41.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 40094, amount $996.88181476.
+2025-10-04 08:14:02.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 84985: Payment gateway timeout.
+2025-10-04 08:17:44.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-04 08:21:31.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 15688, amount $755.87389743.
+2025-10-04 08:30:58.000 [ERROR] com.shopverse3.ordersystem - Email confirmation sent to user 3776.
+2025-10-04 08:33:19.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 46877 due to network issue.
+2025-10-04 08:40:18.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-04 08:42:39.000 [WARN] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/users.
+2025-10-04 08:44:14.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 84333: Payment gateway timeout.
+2025-10-04 08:53:28.000 [WARN] com.shopverse3.ordersystem - PUT /api/orders/80395 returned 500 in 117 ms.
+2025-10-04 09:00:01.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 58129, amount $970.67764012.
+2025-10-04 09:02:23.000 [INFO] com.shopverse3.ordersystem - User 2308 successfully logged in.
+2025-10-04 09:09:53.000 [ERROR] com.shopverse3.ordersystem - User 9277 successfully logged in.
+2025-10-04 09:12:28.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-04 09:21:27.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 44396, amount $280.04634755.
+2025-10-04 09:28:19.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 49680 due to network issue.
+2025-10-04 09:37:55.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-04 09:45:41.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 09:50:36.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 09:57:12.000 [INFO] com.shopverse3.ordersystem - GET /api/payments/66565 returned 200 in 330 ms.
+2025-10-04 09:58:10.000 [INFO] com.shopverse3.ordersystem - User 3321 successfully logged in.
+2025-10-04 10:01:43.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 3911. SMTPException: Connection reset.
+2025-10-04 10:03:34.000 [WARN] com.shopverse3.ordersystem - Payment processed for order 66496, amount $908.92038999.
+2025-10-04 10:12:54.000 [WARN] com.shopverse3.ordersystem - GET /api/users/76197 returned 200 in 333 ms.
+2025-10-04 10:21:24.000 [WARN] com.shopverse3.ordersystem - User 5045 successfully logged in.
+2025-10-04 10:25:46.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-04 10:30:03.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/66778 returned 200 in 38 ms.
+2025-10-04 10:39:43.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 54562: Payment gateway timeout.
+2025-10-04 10:42:43.000 [INFO] com.shopverse3.ordersystem - User 5609 successfully logged in.
+2025-10-04 10:43:22.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 10:50:56.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 4091. SMTPException: Connection reset.
+2025-10-04 10:52:51.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 3790.
+2025-10-04 10:59:39.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 11:08:57.000 [ERROR] com.shopverse3.ordersystem - GET /api/cart/86433 returned 200 in 475 ms.
+2025-10-04 11:18:50.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 30476 due to network issue.
+2025-10-04 11:21:28.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-04 11:27:59.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 11:31:23.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/orders.
+2025-10-04 11:41:10.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 17221: Payment gateway timeout.
+2025-10-04 11:46:25.000 [WARN] com.shopverse3.ordersystem - GET /api/payments/19984 returned 200 in 387 ms.
+2025-10-04 11:47:47.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 40349: Payment gateway timeout.
+2025-10-04 11:54:01.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 11:58:12.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 63874: Payment gateway timeout.
+2025-10-04 11:59:50.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 1436. SMTPException: Connection reset.
+2025-10-04 12:02:08.000 [WARN] com.shopverse3.ordersystem - PUT /api/payments/71681 returned 500 in 265 ms.
+2025-10-04 12:12:00.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-04 12:20:26.000 [ERROR] com.shopverse3.ordersystem - GET /api/products/76485 returned 200 in 387 ms.
+2025-10-04 12:25:38.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 63317, amount $283.17818049.
+2025-10-04 12:30:40.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 22191 due to network issue.
+2025-10-04 12:33:55.000 [INFO] com.shopverse3.ordersystem - Email confirmation sent to user 3726.
+2025-10-04 12:38:03.000 [WARN] com.shopverse3.ordersystem - Retrying payment for order 94981 due to network issue.
+2025-10-04 12:45:46.000 [WARN] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 12:54:46.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5320. SMTPException: Connection reset.
+2025-10-04 12:58:27.000 [WARN] com.shopverse3.ordersystem - Email confirmation sent to user 3890.
+2025-10-04 13:07:39.000 [INFO] com.shopverse3.ordersystem - GET /api/orders/53262 returned 200 in 253 ms.
+2025-10-04 13:11:35.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 6625. SMTPException: Connection reset.
+2025-10-04 13:18:43.000 [INFO] com.shopverse3.ordersystem - Retrying payment for order 94606 due to network issue.
+2025-10-04 13:26:32.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 10231 due to network issue.
+2025-10-04 13:29:57.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 13:31:18.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 23970: Payment gateway timeout.
+2025-10-04 13:41:06.000 [WARN] com.shopverse3.ordersystem - PUT /api/cart/62586 returned 500 in 137 ms.
+2025-10-04 13:49:03.000 [ERROR] com.shopverse3.ordersystem - GET /api/products/39207 returned 200 in 70 ms.
+2025-10-04 13:56:22.000 [WARN] com.shopverse3.ordersystem - Failed to process payment for order 53231: Payment gateway timeout.
+2025-10-04 14:05:41.000 [ERROR] com.shopverse3.ordersystem - Retrying payment for order 17672 due to network issue.
+2025-10-04 14:13:36.000 [WARN] com.shopverse3.ordersystem - User 8330 successfully logged in.
+2025-10-04 14:16:30.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 76758, amount $332.51090497.
+2025-10-04 14:24:00.000 [WARN] com.shopverse3.ordersystem - PUT /api/users/41303 returned 500 in 424 ms.
+2025-10-04 14:25:43.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 5633. SMTPException: Connection reset.
+2025-10-04 14:29:20.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/98090 returned 500 in 148 ms.
+2025-10-04 14:30:42.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 14:40:22.000 [ERROR] com.shopverse3.ordersystem - PUT /api/products/19955 returned 500 in 248 ms.
+2025-10-04 14:43:45.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 85816, amount $389.65672411.
+2025-10-04 14:49:43.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 3438. SMTPException: Connection reset.
+2025-10-04 14:57:01.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 15:04:40.000 [WARN] com.shopverse3.ordersystem - Failed to send email to user 7432. SMTPException: Connection reset.
+2025-10-04 15:12:37.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 15:13:48.000 [ERROR] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 15:14:30.000 [ERROR] com.shopverse3.ordersystem - Failed to send email to user 3696. SMTPException: Connection reset.
+2025-10-04 15:16:41.000 [ERROR] com.shopverse3.ordersystem - Payment processed for order 62219, amount $177.81238060.
+2025-10-04 15:20:31.000 [INFO] com.shopverse3.ordersystem - Failed to send email to user 8417. SMTPException: Connection reset.
+2025-10-04 15:28:47.000 [INFO] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/cart.
+2025-10-04 15:30:06.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/products.
+2025-10-04 15:33:56.000 [ERROR] com.shopverse3.ordersystem - User 1166 successfully logged in.
+2025-10-04 15:37:38.000 [WARN] com.shopverse3.ordersystem - User 5891 successfully logged in.
+2025-10-04 15:46:40.000 [ERROR] com.shopverse3.ordersystem - Failed to process payment for order 55363: Payment gateway timeout.
+2025-10-04 15:47:30.000 [INFO] com.shopverse3.ordersystem - High memory usage detected in OrderService.
+2025-10-04 15:55:51.000 [INFO] com.shopverse3.ordersystem - PUT /api/payments/33715 returned 500 in 261 ms.
+2025-10-04 15:58:23.000 [ERROR] com.shopverse3.ordersystem - PUT /api/orders/77323 returned 500 in 85 ms.
+2025-10-04 16:06:42.000 [ERROR] com.shopverse3.ordersystem - Cache refreshed for endpoint /api/payments.
+2025-10-04 16:07:46.000 [INFO] com.shopverse3.ordersystem - User 3865 successfully logged in.
+2025-10-04 16:17:13.000 [INFO] com.shopverse3.ordersystem - Failed to process payment for order 28304: Payment gateway timeout.
+2025-10-04 16:24:20.000 [INFO] com.shopverse3.ordersystem - Payment processed for order 12852, amount $589.98966257.
